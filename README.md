@@ -6,7 +6,7 @@ Mod in the Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?i
 
 First Hearts of Iron IV Mod (; 
 
-Simply removes the cost of changing/creating Division Designs, so you don't need army experience to get your own custom Divisions. 
-Now compatible with other mods like expanded industry, thanks to Kaseyawolf2!
+Simply sets the cost of changing/creating Division Designs to one and gives you an event at game start for 50 exp, so you can almost freely use Division Templates.
+Having the cost at zero confused the AI for some reason. 
 
 ![](https://github.com/metzbernhard/hoi4-noexpfordivs/blob/master/noexp/noexp.jpg)
