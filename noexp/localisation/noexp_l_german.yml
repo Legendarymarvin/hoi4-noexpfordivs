@@ -1,0 +1,5 @@
+﻿l_german:
+ exp:0 "50 Army and Navy Experience"
+ exp_category:0 "50 Army and Navy Experience"
+ exp_category_desc:0 "Gives 50 Army Experience for starting division templates and 50 Naval Experience for starting ship designs."
+ exp_used:0 "Already used"

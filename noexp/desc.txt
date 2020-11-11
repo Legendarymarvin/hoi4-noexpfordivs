@@ -1,0 +1,3 @@
+First Hearts of Iron IV Mod (;
+
+Simply sets the cost of changing/creating Division Designs to one and gives you a decision to get 50 exp for amy and naval (new for 1.6, so you can build ships), so you can almost freely use Division Templates. Having the cost at zero confused the AI for some reason.
